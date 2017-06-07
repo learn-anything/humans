@@ -1,6 +1,6 @@
 # Interesting humans who made a difference 🌍
 
-This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting humans one can read about learn new things and discover new insights. 🔭
+This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting humans one can read about to learn new things and discover new insights. 🔭
 
 The number before the name stands for the year in which the person died.
 
