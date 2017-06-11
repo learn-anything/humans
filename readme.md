@@ -4,6 +4,8 @@ This is an extension to [Learn Anything Search Engine](https://learn-anything.xy
 
 The number before the name stands for the year in which the person died.
 
+Pull requests are welcome. Thank you. 💙
+
 # Humans 
 
 # entrepreneurs
