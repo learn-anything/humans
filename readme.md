@@ -169,6 +169,8 @@ designed, built and flew the first controlled, powered, heavier than air airplan
 
 ## [1616: William Shakespeare 🌐](http://www.wikiwand.com/en/William_Shakespeare)
 
+## [1674: John Milton 🌐](http://www.wikiwand.com/en/John_Milton)
+
 ## [1881: Fyodor Dostoyevsky 🌐](http://www.wikiwand.com/en/Fyodor_Dostoyevsky)
 
 ## [1900: Oscar Wilde 🌐](http://www.wikiwand.com/en/Oscar_Wilde)
@@ -252,6 +254,8 @@ known by his pen name ‘George Orwell’
 ## [1971: Igor Stravinsky 🌐](http://www.wikiwand.com/en/Igor_Stravinsky)
 
 ## [1980: John Lennon 🌐](http://www.wikiwand.com/en/John_Lennon)
+
+## [1989: Irving Berlin 🌐](http://www.wikiwand.com/en/Irving_Berlin)
 
 ## [10: Jun Seba 🌐](http://www.wikiwand.com/en/Nujabes)
 
@@ -1064,6 +1068,4 @@ was the man who started Buddhism
 ## [Vladimir Putin 🌐](http://www.wikiwand.com/en/Vladimir_Putin)
 
 ## [Angela Merkel 🌐](http://www.wikiwand.com/en/Angela_Merkel)
-
-
 
