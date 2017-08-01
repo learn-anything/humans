@@ -1,4 +1,15 @@
-# Interesting humans who made a difference 🌍
+<h1 align="center">   Interesting humans who made a difference 🌍 </h1>
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/humans/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting humans one can read about to learn new things and discover new insights. 🔭
 
@@ -6,7 +17,7 @@ The number before the name stands for the year in which the person died.
 
 Pull requests are welcome. Thank you. 💙
 
-# Humans 
+<h1 align="center">   Humans </h1>
 
 # entrepreneurs
 
