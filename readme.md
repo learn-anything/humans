@@ -1,4 +1,4 @@
-<h1 align="center">   Interesting humans who made a difference 🌍 </h1>
+<h1 align="center">   Interesting humans who made a difference 👪 </h1>
 <div align="center">
 <a href="https://www.patreon.com/learnanything">
 		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
