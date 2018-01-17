@@ -1,14 +1,7 @@
-# Interesting Humans [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting Humans [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-This is a curated list of all the interesting humans.
-
-The number before the name stands for the year in which the person died.
-
-Pull requests are welcome. Thank you. 💜
-
-## Humans
-### Entrepreneurs
-
+## Entrepreneurs
 - [1913: John Morgan](http://www.wikiwand.com/en/J._P._Morgan)
 - [1919: Andrew Carnegie](http://www.wikiwand.com/en/Andrew_Carnegie)
 - [1931: Thomas Edison](http://www.wikiwand.com/en/Thomas_Edison)
@@ -536,5 +529,7 @@ Pull requests are welcome. Thank you. 💜
 - [Vladimir Putin](http://www.wikiwand.com/en/Vladimir_Putin)
 - [Angela Merkel](http://www.wikiwand.com/en/Angela_Merkel)
 
-## Contribute 
-If you found a human that really inspires you or you think made a meaningful diffrence to this world, feel free to add him/her to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Learn Anything](https://learn-anything.xyz) has waived all copyright and related or neighboring rights to this work.
