@@ -128,7 +128,7 @@
 - [Jon Hopkins](http://www.wikiwand.com/en/Jon_Hopkins)
 - [Kevin Parker](http://www.wikiwand.com/en/Kevin_Parker_(musician)) - Band: Tame Impala.
 - [Justin Vernon](http://www.wikiwand.com/en/Justin_Vernon) - Band: Bon Iver.
-- [Marcos Ortega](http://www.wikiwand.com/en/Lorn_(musician) - Stage name: Lorn.
+- [Marcos Ortega](http://www.wikiwand.com/en/Lorn_(musician)) - Stage name: Lorn.
 - [Douglas Appling](http://www.wikiwand.com/en/Emancipator_(musician)) - Stage name: Emancipator
 - Jason Chung - stage name: Nosaj Thing.
 - [Nicolas Jaar](http://www.wikiwand.com/en/Nicolas_Jaar)
