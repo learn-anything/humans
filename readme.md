@@ -314,10 +314,10 @@
 ## Comedy
 - [1994: Bill Hicks](http://www.wikiwand.com/en/Bill_Hicks)
 
-### Linguistics
+## Linguistics
 - [Noam Chomsky](http://www.wikiwand.com/en/Noam_Chomsky)
 
-### Math
+## Math
 - [Thales of Miletus (546 BC)](http://www.wikiwand.com/en/Thales_of_Miletus)
 - [Pythagoras (495 BC)](http://www.wikiwand.com/en/Pythagoras) - Invented the famous Pythagoras’s Theorem.
 - [Aristotle (322 BC)](http://www.wikiwand.com/en/Aristotle)
