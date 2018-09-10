@@ -1,5 +1,5 @@
 # Awesome Humans [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#contribution-guidelines) before contributing.*
 
 ## Entrepreneurs
 - [John Morgan (1913)](http://www.wikiwand.com/en/J._P._Morgan)
@@ -472,7 +472,7 @@
 - [Angela Merkel](http://www.wikiwand.com/en/Angela_Merkel)
 
 ## Contributing
-See [contribution guidelines](contributing.md#contribution-guidelines).
+See [contribution guidelines](CONTRIBUTING.md#contribution-guidelines).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
