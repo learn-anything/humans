@@ -83,7 +83,7 @@
 - [Demis Hassabis](http://www.wikiwand.com/en/Demis_Hassabis)
 - [Geoffrey Hinton](http://www.wikiwand.com/en/Geoffrey_Hinton) - Was one of the first researchers who demonstrated the use of generalised back propagation algorithm for training multi-layer neural nets.
 - [Herbert Simon (2001)](http://www.wikiwand.com/en/Herbert_A._Simon)
-- [John McCarthy (2011)](http://www.wikiwand.com/en/John_McCarthy_(computer_scientist))
+- [John McCarthy (2011)](<http://www.wikiwand.com/en/John_McCarthy_(computer_scientist)>)
 - [Marvin Minsky (2016)](http://www.wikiwand.com/en/Marvin_Minsky)
 - [Zoubin Ghahramani](http://www.wikiwand.com/en/Zoubin_Ghahramani)
 
@@ -126,7 +126,7 @@
 ## Code
 
 - [Grace Hopper (1992)](http://www.wikiwand.com/en/Grace_Hopper)
-- [Jeff Dean](http://www.wikiwand.com/en/Jeff_Dean_(computer_scientist))
+- [Jeff Dean](<http://www.wikiwand.com/en/Jeff_Dean_(computer_scientist)>)
 - [John Carmack](http://www.wikiwand.com/en/John_Carmack)
 - [Linus Torvalds](http://www.wikiwand.com/en/Linus_Torvalds)
 - [Steve Wozniak](http://www.wikiwand.com/en/Steve_Wozniak)
@@ -146,7 +146,7 @@
 - [John von Neumann (1957)](http://www.wikiwand.com/en/John_von_Neumann)
 - [Konrad Zuse (1995)](http://www.wikiwand.com/en/Konrad_Zuse)
 - [Leslie Lamport](http://www.wikiwand.com/en/Leslie_Lamport)
-- [Margaret Hamilton (1936)](http://www.wikiwand.com/en/Margaret_Hamilton_(scientist))
+- [Margaret Hamilton (1936)](<http://www.wikiwand.com/en/Margaret_Hamilton_(scientist)>)
 - [Stephen Cook](http://www.wikiwand.com/en/Stephen_Cook)
 - [Tony Hoare](http://www.wikiwand.com/en/Tony_Hoare) - Developed QuickSort algorithm.
 
@@ -195,7 +195,7 @@
 
 ## Historians
 
-- [Alan Taylor (1990)](http://www.wikiwand.com/en/Alan_Taylor_(historian))
+- [Alan Taylor (1990)](<http://www.wikiwand.com/en/Alan_Taylor_(historian)>)
 - [Arthur Schlesinger (2007)](http://www.wikiwand.com/en/Arthur_M._Schlesinger_Jr.)
 - [Edward Gibbon (1794)](http://www.wikiwand.com/en/Edward_Gibbon)
 - [Herodotus (425 BC)](http://www.wikiwand.com/en/Herodotus)
@@ -251,7 +251,7 @@
 - [John Backus (2007)](http://www.wikiwand.com/en/John_Backus)
 - [Ken Thompson](http://www.wikiwand.com/en/Ken_Thompson) - Designed C language.
 - [Larry Wall](http://www.wikiwand.com/en/Larry_Wall) - Designed Perl language.
-- [Martin Richards](http://www.wikiwand.com/en/Martin_Richards_(computer_scientist)) - Developed BCPL programming language.
+- [Martin Richards](<http://www.wikiwand.com/en/Martin_Richards_(computer_scientist)>) - Developed BCPL programming language.
 - [Niklaus Wirth](http://www.wikiwand.com/en/Niklaus_Wirth) - Designed several languages including Pascal.
 - [Rasmus Lerdorf](http://www.wikiwand.com/en/Rasmus_Lerdorf) - Designed PHP language.
 - [Rob Pike](http://www.wikiwand.com/en/Rob_Pike) - Helped design Go language.
@@ -386,7 +386,7 @@
 
 - Jason Chung - stage name: Nosaj Thing.
 - [Chazwick Bundick](http://www.wikiwand.com/en/Toro_y_Moi) - Stage name: Tory Y Moi.
-- [Douglas Appling](http://www.wikiwand.com/en/Emancipator_(musician)) - Stage name: Emancipator
+- [Douglas Appling](<http://www.wikiwand.com/en/Emancipator_(musician)>) - Stage name: Emancipator
 - [Henry Laufer](http://www.wikiwand.com/en/Henry_Laufer) - Stage name: Shlohmo.
 - [Igor Stravinsky (1971)](http://www.wikiwand.com/en/Igor_Stravinsky)
 - [Irving Berlin (1989)](http://www.wikiwand.com/en/Irving_Berlin)
@@ -396,9 +396,9 @@
 - [Jon Hopkins](http://www.wikiwand.com/en/Jon_Hopkins)
 - [Jun Seba (2010)](http://www.wikiwand.com/en/Nujabes) - Stage name: Nujabes.
 - [Justin Vernon](http://www.wikiwand.com/en/Justin_Vernon) - Band: Bon Iver.
-- [Kevin Parker](http://www.wikiwand.com/en/Kevin_Parker_(musician)) - Band: Tame Impala.
+- [Kevin Parker](<http://www.wikiwand.com/en/Kevin_Parker_(musician)>) - Band: Tame Impala.
 - [Ludwig van Beethoven (1827)](http://www.wikiwand.com/en/Ludwig_van_Beethoven)
-- [Marcos Ortega](http://www.wikiwand.com/en/Lorn_(musician)) - Stage name: Lorn.
+- [Marcos Ortega](<http://www.wikiwand.com/en/Lorn_(musician)>) - Stage name: Lorn.
 - [Nicolas Jaar](http://www.wikiwand.com/en/Nicolas_Jaar)
 - [Nikolai Rimsky-Korsakov (1908)](http://www.wikiwand.com/en/Nikolai_Rimsky-Korsakov)
 - [Paul McCartney](http://www.wikiwand.com/en/Paul_McCartney)
@@ -442,7 +442,7 @@
 - [Søren Kierkegaard (1855)](http://www.wikiwand.com/en/S%C3%B8ren_Kierkegaard)
 - [Thomas Aquinas (1274)](http://www.wikiwand.com/en/Thomas_Aquinas)
 - [Thomas Hobbes (1679)](http://www.wikiwand.com/en/Thomas_Hobbes) - Proposed that reasoning was like numerical computation, that “we add and subtract in our silent thoughts”.
-- [William Thompson (1833)](http://www.wikiwand.com/en/William_Thompson_(philosopher))
+- [William Thompson (1833)](<http://www.wikiwand.com/en/William_Thompson_(philosopher)>)
 
 ## Photography
 
@@ -471,7 +471,7 @@
 - [John Bardeen (1991)](http://www.wikiwand.com/en/John_Bardeen)
 - [John Bell (1990)](http://www.wikiwand.com/en/John_Stewart_Bell)
 - [John Mauchly (1980)](http://www.wikiwand.com/en/John_Mauchly)
-- [Joseph Thompson (1940)](http://www.wikiwand.com/en/Joseph_Thomson_(explorer))
+- [Joseph Thompson (1940)](<http://www.wikiwand.com/en/Joseph_Thomson_(explorer)>)
 - [Julius Oppenheimer (1967)](http://www.wikiwand.com/en/J._Robert_Oppenheimer)
 - [Louis de Broglie (1987)](http://www.wikiwand.com/en/Louis_de_Broglie)
 - [Ludwig Boltzmann (1906)](http://www.wikiwand.com/en/Ludwig_Boltzmann) - Invented Schrodinger’s Equation.
@@ -548,10 +548,10 @@
 - [Mark Twain (1910)](http://www.wikiwand.com/en/Mark_Twain)
 - [Mikhail Bulgakov (1940)](http://www.wikiwand.com/en/Mikhail_Bulgakov)
 - [Oscar Wilde (1900)](http://www.wikiwand.com/en/Oscar_Wilde)
-- [Paul Graham](http://www.wikiwand.com/en/Paul_Graham_(computer_programmer))
+- [Paul Graham](<http://www.wikiwand.com/en/Paul_Graham_(computer_programmer)>)
 - [William Shakespeare (1616)](http://www.wikiwand.com/en/William_Shakespeare)
 
 ---
 
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
