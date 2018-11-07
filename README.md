@@ -239,8 +239,6 @@
 
 ## Language Design
 
-- Jose Valim - Designed elixir language.
-- Rich Hickey - Designed Clojure language.
 - [Alan Kay](http://www.wikiwand.com/en/Alan_Kay) - Helped design Smalltalk language.
 - [Anders Hejlsberg](http://www.wikiwand.com/en/Anders_Hejlsberg) - Designed Turbo Pascal and Delphi languages and works as lead architect of C+ and core developer of TypeScript.
 - [Bjarne Stroustrup](http://www.wikiwand.com/en/Bjarne_Stroustrup) - Designed C++ language.
@@ -258,6 +256,8 @@
 - [Rob Pike](http://www.wikiwand.com/en/Rob_Pike) - Helped design Go language.
 - [Xavier Leroy](http://www.wikiwand.com/en/Xavier_Leroy) - Primary developer of the OCaml system.
 - [Yukihiro Matsumoto](http://www.wikiwand.com/en/Yukihiro_Matsumoto) - Designed ruby language.
+- Jose Valim - Designed elixir language.
+- Rich Hickey - Designed Clojure language.
 
 ## Leaders
 
@@ -385,7 +385,6 @@
 
 ## Music
 
-- Jason Chung - stage name: Nosaj Thing.
 - [Chazwick Bundick](http://www.wikiwand.com/en/Toro_y_Moi) - Stage name: Tory Y Moi.
 - [Douglas Appling](<http://www.wikiwand.com/en/Emancipator_(musician)>) - Stage name: Emancipator
 - [Henry Laufer](http://www.wikiwand.com/en/Henry_Laufer) - Stage name: Shlohmo.
@@ -404,6 +403,7 @@
 - [Nikolai Rimsky-Korsakov (1908)](http://www.wikiwand.com/en/Nikolai_Rimsky-Korsakov)
 - [Paul McCartney](http://www.wikiwand.com/en/Paul_McCartney)
 - [Wolfgang Mozart (1791)](http://www.wikiwand.com/en/Wolfgang_Amadeus_Mozart)
+- Jason Chung - stage name: Nosaj Thing.
 
 ## Neuroscience
 
