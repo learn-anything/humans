@@ -31,6 +31,7 @@
 - [Language Design](#language-design)
 - [Leaders](#leaders)
 - [Linguistics](#linguistics)
+- [Machine learning](#machine-learning)
 - [Management](#management)
 - [Math](#math)
 - [Medicine](#medicine)
@@ -293,6 +294,10 @@
 ## Linguistics
 
 - [Noam Chomsky](http://en.wikipedia.org/wiki/Noam_Chomsky)
+
+## Machine learning
+
+- [David Kristjanson Duvenaud](http://www.cs.toronto.edu/~duvenaud/)
 
 ## Management
 
