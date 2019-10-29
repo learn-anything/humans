@@ -3,8 +3,6 @@
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
----
-
 #### Contents
 
 - [Acting](#acting)
@@ -44,8 +42,6 @@
 - [Scifi](#scifi)
 - [Spirit](#spirit)
 - [Writing](#writing)
-
----
 
 ## Acting
 
@@ -557,8 +553,6 @@
 - [Oscar Wilde (1900)](http://en.wikipedia.org/wiki/Oscar_Wilde)
 - [Paul Graham](<http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)>)
 - [William Shakespeare (1616)](http://en.wikipedia.org/wiki/William_Shakespeare)
-
----
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
