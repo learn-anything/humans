@@ -89,6 +89,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Biology
 
+- [Kary Mullis](https://en.wikipedia.org/wiki/Kary_Mullis) - Invented PCR (polymerase chain reaction).
 - [Alexander Fleming (1955)](https://en.wikipedia.org/wiki/Alexander_Fleming)
 - [Alfred Wallace (1913)](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace)
 - [Carl Linnaeus (1778)](https://en.wikipedia.org/wiki/Carl_Linnaeus)
